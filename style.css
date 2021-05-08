@@ -1,0 +1,85 @@
+h2{
+	font-size: 25px;
+    text-align: center;
+	text-decoration-line: #33001a;
+    font-family: inherit;
+	font-style: italic;
+	color: #990033;
+	margin-top: 20px;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 4.5px;
+  background-color: #D2B48C !important;
+  
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+  margin: 12px 12px 0px 0px;
+  height: 70px;
+  color: #A0522D
+  
+}
+
+.navbar-brand {
+
+  font-size: 20px;
+  font-weight: bold;
+  Color: #A52A2A;
+  margin-left: 10px;
+  
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+/* Carousel */
+
+.carousel-inner {
+	padding-top: 20px;
+}
+
+/* Categories */
+
+.cards{
+	background-color: #D2B48C !important;
+}
+
+
+.card-deck {
+	padding-top: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 500px;
+}
+
+
+ h4 {
+	
+	font-family: "Lucida Console", Courier, monospace;
+	text-align: center;
+    margin-top: 50px;
+}
+.col{
+	
+	height :100%;
+}
+
+.btn-link{
+	color: #4d0026;
+}
+
+p{
+	margin-top: 35px;
+    margin-bottom: 1rem;
+    font-family: ui-sans-serif;
+	font-style: italic;
+    font-size: 17px;
+	font-weight: bold;
+	color: #800040;
+}
